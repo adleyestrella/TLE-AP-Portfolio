@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head><title> Elastisidad </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+</head>
+<head>
+<body>
+<h1> Price Elasticity </h1>
+<h2> Elastisidad </h2>
+<div class="right1">
+<img src="AP9.jpg" class="right">
+<p> Ito ay isang pamaraan upang masukat ang produksyon ng mga mamimili at nagtitinda sa pagbabago ng presyo. </p>
+</div>
+
+<h3> Elastisidad ng Demand at Elastisidad ng Supply </h3>
+<div class="normal">
+<p>Ang elastisidad ng demand o supply ay ang pagsukat ng porsiyento ng mamimili sa bawat porsiyento ng ng presyo ngunit ang elastisidad ng supply ay mas malaki ang pagbabago ng supply sa bawat porsiyento ng pagbabago ng presyo.</p>
+</div>
+
+
+<h4> Mga Uri ng Elastisidad </h4>
+<div class="left1">
+<img src="AP20.jpg" class="left">
+<dl>
+<dt> Elastik </dt>
+<dd> Ang demand o supply ay masasabing price elastic kapag malaki ang naging bahagdan ng pagtugon ng quantity demanded o quantity supplied kaysa sa ibang bahagdan ng pagbabago ng presyo.</dd>
+<dt> Di-elastic </dt>
+<dd>Ang demand o supply ay masasabing price elastic kapag maliit ang naging bahagdan ng pagtugon ng quantity demanded o quantity supplied kaysa sa ibang bahagdan ng pagbabago ng presyo.</dd> 
+<dt> Unitary </dt>
+<dd> Pareho ang bahagdan ng pagbabago ng presyo sa bahagdan ng pagbabago ng quantity demanded o quantity supplied.</dd>
+<dt> Ganap na Elastik </dt>
+<dd> Pagbabago sa presyo ay magdudulot ng infinite ng pagbabago sa quantity demanded o quantity supplied.</dd>
+<dt> Ganap na Di-elastic </dt>
+<dd> Nagbabago ang quantity demanded o quantity supplied pero di nagbabago ang presyo</dd>
+</dl>
+</div>
+
+<h5> Formula ng Elastisidad </h5>
+<div class="normal">
+<img src="AP11.jpg" class="center">
+</div>
+<a href="Market Equilibrium.html" target="_blank"> Pindutin para sa susunod na pahina.  </a><br>
+<a href="Supply.html" target="_blank"> Pindutin para sa nakaraang pahina.  </a>
+</body>
+</html>
+

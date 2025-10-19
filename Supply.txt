@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head><title> Supply </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+</head>
+<head>
+<body>
+<h1> Supply </h1>
+<h2> Supply/Panustos </h2>
+<div class="left1">
+<img src="AP6.jpg" class="left">
+<p> Ito at tumutukoy sa dami ng produkto o serbisyo na gusting ibenta ng mga produsyer sa isang presyo at particular na panahon. Ang presyo ay pinakamahalangang natatakda sa dami ng supply. Ang matematikong formula ay:<br>
+Supply = Pagnanais + Kakayahan.</p>
+</div>
+
+<h3> Batas ng Presyo </h3>
+<div class="right1">
+<ul>
+<li> Kapag tumataas ang presyo, tumataas ang dami ng gusto at kayang ibenta.</li>
+<li> Kapag bumababa ang presyo, bumababa ang dami ng gusto at kayang ibenta</li>
+</ul>
+</div>
+
+<h4> Supply Schedule </h4>
+<div class="left1">
+<img src="AP8.jpg" class="left">
+<p> Ito ay isang tsart na nagpapakita kung gaano karaming produkto o serbisyo. </p>
+</div>
+
+<h5> Supply Function </h5>
+<div class="right1">
+<p> Ito ay isang mathematical formula ng supply. <br>
+Qs = c + bP<br>
+Qs=quantity supplied<br>
+c=dami ng supply kung ang presyo ay 0<br>
+b=slope ng demand<br>
+P=presyo
+</p>
+</div>
+
+<h6> Supply Curve </h6>
+<div class="left1">
+<img src="AP7.jpg" class="left">
+<p> Ito ay isang grapikong representasyon ng batas ng supply. Maaaring din lumipat ang supply curve. </p>
+</div>
+
+<h7> Mga Salik na Nakaaapekto sa Supply </h7>
+<div class="right1">
+<ul>
+<li> Pagbabago sa teknolohiya </li>
+<li> Pagbabago sa halaga ng mga salik ng produksyon </li>
+<li>Pagbabago sa bilang ng mga nagtitinda</li>
+<li> Pagbabago sa presyo ng kaugnay sa produkto</li>
+<li>Ekspektasyon ng presyo</li>
+<li>Okasyon/tradisyon</li>
+<li>Panahon/klima</li>
+<li>Kalamidad</li>
+</ul>
+</div>
+<a href="Price Elasticity.html" target="_blank"> Pindutin para sa susunod na pahina.  </a><br>
+<a href="Demand.html" target="_blank"> Pindutin para sa nakaraang pahina.  </a>
+</body>
+</html>

@@ -1,0 +1,124 @@
+body{
+  background-color: lightgreen;
+}
+
+h1 {
+  color: BurlyWood;
+  font-family: Impact;
+  font-weight: bold;
+  text-align: center;
+  font-size: 80px;
+  text-shadow: 3px 3px DarkGreen;
+  border-style: solid;
+  border-color: Darkgreen;
+  border-radius: 30px;
+  border-width: 15px;
+  background-color:pink;
+}
+
+h2,h3,h4,h5,h6,h7,h8,h9,h10{
+  color: DarkRed;
+  font-family: Cooper Black;
+  font-size: 60px;
+}
+
+p{
+  color:DarkBlue;
+  font-family: Comic Sans MS;
+  font-size: 40px;
+}
+
+li{
+  color:DarkBlue;
+  font-family: Comic Sans MS;
+  font-size: 40px;
+}
+
+dt{
+  color:Chocolate;
+  font-family: Arial;
+  font-size: 50px;
+}
+
+dd{
+  color:DarkBlue;
+  font-family: Comic Sans MS;
+  font-size: 40px;
+}
+
+
+.right{
+  float: right;
+  width: 20%;
+  height:10%
+}
+
+.right1{
+  background-color:DarkSalmon;
+  border-style: solid;
+  border-color: DarkOrange;
+  border-radius: 30px;
+  border-width: 20px;
+  postition: absolute;
+  left: 10%;
+  top: 10%;
+}
+
+.left{
+  float: left;
+  width: 20%;
+  height:10%;
+}
+
+.left1{
+  background-color:Cornsilk;
+  border-style: solid;
+  border-color: Khaki;
+  border-radius: 30px;
+  border-width: 20px;
+  postition: absolute;
+  left: 10%;
+  top: 10%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.normal{
+  background-color:PapayaWhip;
+  border-style: solid;
+  border-color: Teal;
+  border-radius: 30px;
+  border-width: 20px;
+}
+
+.text{
+  text-align:center;
+}
+div.an{
+  text-align: center;
+  color: Indigo;
+  border-style: solid;
+  border-color: purple;
+  border-radius: 30px;
+  border-width: 15px;
+  background-color:Lightgray;
+  font-size: 40px;
+}
+
+a{
+  color: Indigo;
+  font-size: 40px;
+}
+
+
+
+  
+  
+  
+  
+

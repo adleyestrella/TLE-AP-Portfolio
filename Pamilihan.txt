@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head><title> Pamilihan </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+</head>
+<head>
+<body>
+<h1> Pamilihan </h1>
+<h2> Pamilihan </h2>
+<div class="left1">
+<img src="AP13.jpg" class="left">
+<p> Ito ay binubuo ng prodyuser, pamilihan, at produkto.</p>
+</div>
+
+<h3> Pagkakaiba ng mga Anyo/Uri ng Pamilihan </h3>
+<div class="normal">
+<ul>
+<li>Bilang at laki ng prodyuser o consyumer</li>
+<li> Uri ng produkto o serbisyo</li>
+<li> Kontrol sa presyo</li>
+<li>Kontrol sa pagpasok sa pamilihan</li>
+<li>Paggamit ng di-presyong kompetisyon</li>
+<ul>
+</div>
+
+<h4> Uri ng Pamilihan </h4>
+<div class="right1">
+<img src="AP14.jpg" class="right">
+<ul>
+<li>Lokal</li>
+<li>Panrehiyon</li>
+<li>Pambansa</li>
+<li>Pandaigdigan</li>
+</ul>
+</div>
+
+<h5>Estruktura ng Pamilihan</h5>
+<div class="left1">
+<img src="AP15.jpg" class="left">
+<h6> Ganap na Kompetisyon </h6>
+<ul>
+<li>Marami konsyumer at prodyuser.</li>
+<li> Magkapareho ang produkto. </li>
+<li>Mga kalakalan sa industriya ay tinatawag na price takers.</li>
+<li>Malayang nakakapasok at nakalabas ang mga kalakalan sa produksyon.</li>
+<li>Nagtatakda ng presyo na may kaugnayan ng supply at demand.</li>
+</li>
+</div>
+<div class="right1">
+<img src="AP16.jpg" class="right"
+<dl>
+<dt>Di-ganap na Kompetisyon </dt>
+<dd> Indibidwal na nakalakalan ay may control sa presyo ng pamilihan</dd>
+</dl>
+<h7> Mga Pamilihan na Di-ganap na Kompetisyon</h7>
+<dl>
+<dt> Monopolyo </dt>
+<dd> 
+   <ul>
+       <li> iisang prodyuser</li>
+       <li>produkto ay walang malapit na kapalit</li>
+       <li>Ang monopolista ay ang price maker ng produkto.</li>
+       <li>Napakahirap ang pagpasok ng mga bagong prodyuser sa ganitong pamilihan</li>
+       <li>Pag-aanunsiyo sa produkto ay maaaring gamitin o hindi</li>
+   </ul>
+</dd>
+<dt> Ologopoly </dt>
+<dd>
+   <ul>
+       <li> Kaunti lamang ang prodyuser.</li>
+       <li> Maaaring magkatulad o magkaiba ang mga produkto</li>
+       <li> Malaki ang control ng mga kalakalan sa presyo.</li>
+   </ul>
+</dd>
+<dt> Monopolistikong Kompetisyon </dt>
+<dd>
+   <ul>
+       <li> May katamtamang dami ng mga prodyuser at konsyumer.</li>
+       <li> Ang mga produkto ay naging tanyag dahil sa pag-aanunsiyo.</li>
+   </ul>
+</dd>
+<dt> Monopsony </dt>
+<dd>
+   <ul>
+       <li>Iisa ang bumibili ngunit marami ang nagtitinda.</li>
+       <li>May kapangyarihan ang konsyumer na maimpluwensiyahan ang presyon sa pamilihan.</li>
+   </ul>
+</dd>
+</dl>
+</div>
+<a href="Kontrol ng Presyo ng Pamahalaan.html" target="_blank"> Pindutin para sa susunod na pahina.  </a><br>
+<a href="Market Equilibrium.html" target="_blank"> Pindutin para sa nakaraang pahina.</a>
+</body>
+</html>
+
+       
+        
+

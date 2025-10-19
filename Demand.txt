@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head><title> Demand </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+</head>
+<head>
+<body>
+<h1> Demand </h1>
+<h2> Demand</h2>
+<div class="right1">
+<img src="AP1.jpg" class="right">
+<p> Demand ay tumutukoy a dami ng produkto o serbisyo na gusto at kayang bilhin ng mga mamimili sa isang takdang presyo at particular na panahon. Ito ang kakayahan at kagustuhan ng tao na makamit at bilhin ang isang produkto o serrbisyo ang nagtakda ng kaniyang pangangailangan at kagustuhan. Ang mathematical formula ng demand ay: </p>
+<img src="AP3.png" class="center">
+</div>
+
+<h3> Batas ng Demand </h3>
+<div class="left1">
+<img src="AP2.gif" class="left">
+<ul>
+<li> Kapag tumataas ang presyo, bumababa ang demand</li>
+<li> Kapag bumababa ang presyo, tumataas ang demand</li>
+</ul>
+</div>
+
+<h4> Ceteris Paribus </h4>
+<div class="right1">
+<p> Ipinagpapalagay na ang presyo lamang ang salik na nakaaapekto sa pagbabago ng quantity demanded, habang ang ibang salik ay hindi nagbabago o nakaaapekto nito.</p>
+</div>
+
+<h5> Dalawang Konsepto </h5>
+<div class="left1">
+<dl>
+<dt> Substitution Effect </dt>
+<dd> Kapag tumataas ang presyoo ng isang produkto, ang mga mamimili ay hahanap ng pamalit na mas mura. </dd>
+<dt> Income Effect </dt>
+<dd> Kapag mababa ang presyo, tumataas ang halaga ng kinikita ngunit kapag mataas ang presyo, bumababa ang halaga ng kinikita.</dd>
+</dl>
+</div>
+
+<h6> Demand Schedule </h6>
+<div class="right1">
+<img src="AP4.jpg" class="right">
+<p> Ito ay isang tsart na nagpapakita ng bilang ng mga kalakal o serbisyo. </p>
+</div>
+
+<h7> Demand Function</h7>
+<div class="left1">
+<p> Ito ay isang matematikong formula na nagpapakita na nagpapakita o paglahad sa ugnayan ng presyo at quantity demanded.<br>
+Qd=a-bP<br>
+Qd=quantity demanded<br>
+a=dami ng demand<br>
+b=slope ng demand<br>
+P=presyo
+</p>
+</div>
+
+<h8> Demand Curve </h8>
+<div class="right1">
+<img src="AP5.jpg" class="right">
+<p> Ito ay tumutukoy sa grapikong representasyon ng Batas ng Demand. Ang presyo ay ang independent variable habang ang demand ay ang dependent variable.</p>
+<p> Maaring paglipat ang demand curve</p>
+</div>
+
+<h9> Mga Salik na Nakaaapekto sa Demand </h9>
+<div class="left1">
+<ul>
+<li> Kita </li>
+<li> Populasyon </li>
+<li>Panlasa</li>
+<li> Presyo ng magkaugnay na produkto sa pagkonsumo</li>
+<li>Inaasahan ng mga mamimili sa presyo sa hinahanap</li>
+</ul>
+</div>
+<a href="Supply.html" target="_blank"> Pindutin para sa susunod na pahina.  </a>
+</body>
+</html>

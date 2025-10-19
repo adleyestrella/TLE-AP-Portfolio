@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title> Market Equilibrium </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+</head>
+<head>
+<body>
+<h1> Market Equilibrium </h1>
+<h2> Equilibrium </h2>
+<div class="right1">
+<img src="AP12.jpg" class="right">
+<p> Ito ay isang kalagayan na walang sinuman sa mamimili at nagbili ang gusting baguhin ang kasalukuyang sitwasyon sa pamilihan. Ito din nagpapakita ng pagkakasundo ng bumubil at nagbiibili sa isang takdang presyo at dami ng produkto.</p>
+</div>
+<a href="Pamilihan.html" target="_blank"> Pindutin para sa susunod na pahina.  </a><br>
+<a href="Price Elasticity.html" target="_blank"> Pindutin para sa nakaraang pahina.  </a>
+</body>
+</html>

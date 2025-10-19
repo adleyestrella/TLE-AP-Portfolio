@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title> AP Portfolio </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+</head>
+<head>
+<body>
+<h1> Araling Panlipunan Portfolio </h1>
+<h2 class="text"> Rae Adley B. Estrella </h2>
+<h3 class="text"> 9-Family </h3>
+<div class="an">
+<h4> Araling Panlipunan Contents </h4>
+<a href="Demand.html" target="_blank"> Demand </a><br>
+<a href="Supply.html" target="_blank"> Supply </a><br>
+<a href="Price Elasticity.html" target="_blank"> Price Elasticity </a><br>
+<a href="Market Equilibrium.html" target="_blank"> Market Equilibrium </a><br>
+<a href="Pamilihan.html" target="_blank"> Pamilihan </a><br>
+<a href="Kontrol ng Presyo ng Pamahalaan.html" target="_blank"> Pagkontrol ng Presyo ng Pamahalaan </a>
+</div>
+</body>
+</html>
+
